@@ -1,5 +1,4 @@
 import streamlit as st
-from openai import OpenAI
 
 # Function to enhance the prompt
 def enhance_prompt(api_key, role, context, task):
